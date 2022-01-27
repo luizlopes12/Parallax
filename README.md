@@ -6,3 +6,6 @@
 
 #### Desktop
 ![seila](./parallax-desk.gif)
+
+#### Mobile
+![seila](./parallax-mobile.gif)
