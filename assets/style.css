@@ -24,10 +24,11 @@
 
 .container{
     width: 70%;
+    padding: 20px;
     margin: auto;
 }
 .text{
-    margin-top: 20px;
+
     font-size: 1.2em;
 }
 .parallax{
